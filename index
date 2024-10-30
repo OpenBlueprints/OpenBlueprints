@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Example HTML File</title>
+  </head>
+  <body>
+    <h1>Welcome to my example HTML file!</h1>
+    <p>This is a paragraph of text.</p>
+    <img src="image.jpg" alt="An example image">
+    <a href="https://www.example.com">Visit Example.com</a>
+  </body>
+</html>
